@@ -9,13 +9,13 @@ const DEFAULT_PATH_MAPPINGS = {
 	'/google': {
 		targetDomain: 'dns.google',
 		pathMapping: {
-			'/query-dns': '/dns-query',
+			'/fuck': '/dns-query',
 		},
 	},
 	'/cloudflare': {
 		targetDomain: 'cloudflare-dns.com',
 		pathMapping: {
-			'/query-dns': '/dns-query',
+			'/fuck': '/dns-query',
 		},
 	},
 	// Add more path mappings as needed
